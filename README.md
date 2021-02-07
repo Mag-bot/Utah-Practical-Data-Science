@@ -15,6 +15,10 @@ Thomas Young is a part-time professor at U of U.  Mr. Young's day job is with th
 I met Thomas during the SAS section of Survey of Statistical Packages.  He is very supportive and enthusiastic in my growth with coding.  I asked Thomas if he would be willing to be part of my MSTAT committee.  I really need to find a chair member first, but Thomas is happy to help me with my program!
 
 ## Assignments
-1. Description of first assignment...
+1. The first assignment referenced a tax sheet.  We calculated changes in taxes based on difference parameters; such as, social security and large families.
   * [SAS Program](Assignments\Bowling_PDS_Assignment1.sas)
   * [Tableau Visualizations](Assignments\Bowling_PDS_Assignment1.twb)
+
+
+2. The second assignment was all about Tableau.  We had to create several different charts, graphs, and a table that can be both interactive and informative.
+  * [Tableau](Assignments\Bowling_PDS_Assignment2.twb)
