@@ -22,3 +22,7 @@ I met Thomas during the SAS section of Survey of Statistical Packages.  He is ve
 
 2. The second assignment was all about Tableau.  We had to create several different charts, graphs, and a table that can be both interactive and informative.
   * [Tableau](Assignments\Bowling_PDS_Assignment2.twb)
+
+
+3. The third assignment was a combination of R, Python, and Tableau.  This one had about 60 questions and took some time, but I am happy to be using Python again!
+  * [PDF Document](Assignments\Bowling_PDS_Assignment4.pdf)
